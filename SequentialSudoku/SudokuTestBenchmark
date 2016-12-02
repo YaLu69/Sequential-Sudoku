@@ -1,0 +1,69 @@
+0 ms - solve() execution time
+Sudoku file name: game0.txt
+Solution counter: 1
+Space Solution: 4
+
+0 ms - solve() execution time
+Sudoku file name: game1.txt
+Solution counter: 1
+Space Solution: 544195584000000000
+
+0 ms - solve() execution time
+Sudoku file name: game2.txt
+Solution counter: 1
+Space Solution: 6823269127183128330240
+
+2672 ms - solve() execution time
+Sudoku file name: game3.txt
+Solution counter: 50142
+Space Solution: 2304433152000000000000000000000000000000
+
+4 ms - solve() execution time
+Sudoku file name: test1_a.txt
+Solution counter: 1
+Space Solution: 43129799915034095124480000
+
+585 ms - solve() execution time
+Sudoku file name: test1_b.txt
+Solution counter: 4715
+Space Solution: 1947751863256350720000000000000000000
+
+8701 ms - solve() execution time
+Sudoku file name: test1_c.txt
+Solution counter: 132271
+Space Solution: 13980445502865408000000000000000000000000
+
+38519 ms - solve() execution time
+Sudoku file name: test1_d.txt
+Solution counter: 587264
+Space Solution: 477847258398720000000000000000000000000000
+
+218203 ms - solve() execution time
+Sudoku file name: test1_e.txt
+Solution counter: 3151964
+Space Solution: 23409163772243214336000000000000000000000000
+
+21 ms - solve() execution time
+Sudoku file name: test2_a.txt
+Solution counter: 1
+Space Solution: 24563768857859261988864000000000
+
+94 ms - solve() execution time
+Sudoku file name: test2_b.txt
+Solution counter: 276
+Space Solution: 261718015484414301673881600000000000
+
+1479 ms - solve() execution time
+Sudoku file name: test2_c.txt
+Solution counter: 32128
+Space Solution: 5546527766851092480000000000000000000000
+
+49584 ms - solve() execution time
+Sudoku file name: test2_d.txt
+Solution counter: 1014785
+Space Solution: 54366191037898352756785152000000000000000000
+
+400719 ms - solve() execution time
+Sudoku file name: test2_e.txt
+Solution counter: 7388360
+Space Solution: 4281337544234495279596830720000000000000000000
